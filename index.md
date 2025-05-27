@@ -20,3 +20,7 @@ var myVar = "Hello, world!";
 index=main sourcetype=* 
 | stats count by _time
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
